@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mubarakbabs
-- 👀 I’m interested in data science, particlularly analytics and its application to solving business problems.
-- 🌱 I’m currently learning SQL and python. 
-- 💞️ I’m looking to collaborate on any projects that can help me improve my skills
+- 👀 I’m interested in data science, particularly analytics and its application to solving business problems.
+- 🌱 I’m currently learning SQL, python and R. 
 - 📫 You can reach me through email at mubarakbabslawal@gmail.com or LinkedIn at Mubarak Babslawal
 
 <!---
